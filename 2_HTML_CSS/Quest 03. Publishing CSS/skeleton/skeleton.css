@@ -9,5 +9,20 @@ body header {border: 20px}
 body {
 	/* TODO: 어떤 코드가 들어가야 할까요? */
 }
+#jaehyo {
+    border: 1px solid lightgray;
+    padding: 20px;
+}
+aside {
+    float:right;
+    width: 200px;
+    margin-left: 80px;
+}
+
+
+footer{
+    float:bottom;
+
+}
 
 /* TODO: 또 어떤 코드들이 들어가야 할까요? */
