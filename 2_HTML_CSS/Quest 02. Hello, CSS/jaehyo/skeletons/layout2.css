@@ -8,17 +8,17 @@ body {
 	padding: 0;
 }
 
-aside {
-	background-color: pink;
-    width: 200px;
-    display: inline-block;
-	float: left;
+.main {
+	background-color: skyblue;
 	/* TODO: 이 곳을 채우세요! */
 }
 
-.main {
-	background-color: skyblue;
-    display: inline-block;
-	float: right;
+.left {
+	background-color: pink;
+	/* TODO: 이 곳을 채우세요! */
+}
+
+.right {
+	background-color: greenyellow;
 	/* TODO: 이 곳을 채우세요! */
 }
