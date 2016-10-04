@@ -12,7 +12,7 @@ width: auto; height: auto; dispaly: table}
 header div ul {list-style: none; float: left !important;}
 #makegreen {background-color: lime;
 color: white; }
-body {
+body {}
 	/* TODO: 어떤 코드가 들어가야 할까요? */
 
 body .listinline ul li{display:inline;
