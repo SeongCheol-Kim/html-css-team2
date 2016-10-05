@@ -32,6 +32,7 @@ header div span {
     padding: 5px;
 }
 
+
 .nav {
     display: inline;
     margin-left: 10px;
@@ -48,8 +49,9 @@ header div button {
 .main-header{
     font-size: 20px;
     color: blue;
-    margin-left: 120px;
-    display: inline;
+    margin-left: 210px;
+    display: block;
+    padding-top: 20px;
 }
 
 
