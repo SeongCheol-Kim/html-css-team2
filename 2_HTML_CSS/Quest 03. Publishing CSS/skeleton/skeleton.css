@@ -59,5 +59,8 @@ header div button {
 
 
 /*조재효*/
+section aside {display: block}
+footer {display: block}
 
 /*손해창*/
+.main-detail {display: block}
