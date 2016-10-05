@@ -19,6 +19,9 @@ header div {
     background-color: #f5f5f5;
     display: block;
 }
+header div a {margin-left: 110px}
+
+
 header div span {
     display: inline;
     margin-top: 20px;
@@ -34,14 +37,20 @@ header div span {
     text-decoration: none;
 }
 
-#main-detail{
-    height:41px;
-    position:relative;
-    border:1px solid #ddd;
-    border-radius:3px 3px 0 0;
-    border-bottom:0px;
-    margin-bottom:0;
+header div button {
+    padding: 10px 10px 10px 10px;
+    border-radius: 3px;
+    background-color: #fafafa;
+    border: 1px solid #d5d5d5;
+
 }
+.main-header{
+    font-size: 20px;
+    color: blue;
+    margin-left: 120px;
+    display: inline;
+}
+
 
 /*전부 다 class나 id 만들어서 해주세요 부분별로 짜면 나중에 합칠께요 각자 자기 이름아래 코드 수정해주세요*/
 
