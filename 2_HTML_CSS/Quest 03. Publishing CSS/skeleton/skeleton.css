@@ -1,4 +1,4 @@
-* {
+* {box-sizing: border-box;
 	/* TODO: 어떤 코드가 들어가야 할까요? */
 }
 
@@ -11,3 +11,42 @@ body {
 }
 
 /* TODO: 또 어떤 코드들이 들어가야 할까요? */
+header div {
+    margin-top: -10px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    background-color: #f5f5f5;
+    display: block;
+}
+header div span {
+    display: inline;
+    margin-top: 20px;
+    border:1px solid #d5d5d5;
+    border-radius: 6px;
+    padding: 5px;
+
+}
+
+.nav {
+    display: inline;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+#main-detail{
+    height:41px;
+    position:relative;
+    border:1px solid #ddd;
+    border-radius:3px 3px 0 0;
+    border-bottom:0px;
+    margin-bottom:0;
+}
+
+/*전부 다 class나 id 만들어서 해주세요 부분별로 짜면 나중에 합칠께요 각자 자기 이름아래 코드 수정해주세요*/
+
+/*김성철*/
+
+/*조재효*/
+
+/*손해창*/
