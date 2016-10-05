@@ -11,6 +11,9 @@ body {
 }
 
 /* TODO: 또 어떤 코드들이 들어가야 할까요? */
+
+/*김성철*/
+
 header div {
     margin-top: -10px;
     padding-top: 10px;
@@ -20,7 +23,6 @@ header div {
     display: block;
 }
 
-header div a {margin-left: 110px}
 
 header div span {
     display: inline;
@@ -53,7 +55,6 @@ header div button {
 
 /*전부 다 class나 id 만들어서 해주세요 부분별로 짜면 나중에 합칠께요 각자 자기 이름아래 코드 수정해주세요*/
 
-/*김성철*/
 
 /*조재효*/
 
