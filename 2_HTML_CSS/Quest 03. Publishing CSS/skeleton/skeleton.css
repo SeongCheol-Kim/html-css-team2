@@ -59,8 +59,51 @@ header div button {
 
 
 /*조재효*/
-section aside {display: block}
-footer {display: block}
+aside{
+    float: right;
+    margin-right:10px;
+    margin-top: 30px;
+    display: inline-block;}
+
+.not_aside {
+    display: inline-block;
+}
+section aside {
+    display: block; }
+
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+    color: #437AC1}
+
+#right{
+    color: black;
+    border:1px solid gray;
+    padding: 25px;
+    width: 180px;}
+
+aside span {
+    color: gray;  }
+
+#side {
+    color: #5889C8;  }
+
+footer {
+    display: block;
+    clear: both;
+    margin-left:210px; }
+
+footer div{
+    text-decoration: none;
+}
+.bottom-left{
+    color: #437AC1;
+    position: relative;
+}
+.bottom-right{
+    color: #437AC1;
+    position: relative;
+
+}
 
 /*손해창*/
 .main-detail {display: block}
